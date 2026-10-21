@@ -176,9 +176,9 @@ from conditional logic to Strategy.
 
 Before refactoring:
 https://github.com/AbdrTabyn/RestaurantKitchenSTR/commits/master/
-After refactoring:
-[AFTER COMMIT LINK]
 
+After refactoring:
+https://github.com/AbdrTabyn/RestaurantKitchenSTR/commit/0058a3b9af2baa8d524c0c20225d8857f160f99c
 The same behavior is verified before
 plus after refactoring.
 
